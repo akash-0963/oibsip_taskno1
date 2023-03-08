@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyUnitConverter</string>
+    <string name="enter_the_value">Enter the Value</string>
+    <string name="convert">Convert</string>
+    <string name="calculated_value">Calculated Value</string>
+    <string name="converter_name">Converter_name</string>
+
+    <string-array name="Weight">
+        <item>Kilograms (Kg)</item>
+        <item>Gram (g)</item>
+        <item>Ton (T)</item>
+    </string-array>
+
+    <string-array name="Temperature">
+        <item>Celsius</item>
+        <item>Fareinheit (F)</item>
+        <item>Kelvin (K)</item>
+    </string-array>
+
+    <string-array name="Angle">
+        <item>Degree</item>
+        <item>Radian</item>
+    </string-array>
+
+    <string-array name="Currency">
+        <item>USD</item>
+        <item>Euro</item>
+        <item>INR</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="choose">choose</string>
+    <string name="choose2">choose</string>
+    <string name="angle_converter">Angle Converter</string>
+    <string name="temperature_converter">Temperature Converter</string>
+    <string name="weight_converter">Weight Converter</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="unit_converter">Unit Converter</string>
+</resources>
